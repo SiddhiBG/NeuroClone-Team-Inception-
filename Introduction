@@ -1,3 +1,4 @@
+Introduction
 Our ITSP Project is based on tracking brain signals, manipulating them so that they could be used to simulate and control a robot. The basic motivation behind this project was to help the paralysed people so that they can perform their tasks with the help of the bot , thereby giving them a sense that they themselves are performing those actions. 
 So what we concluded from our brain study is that all the functions which are performed by humans are the results of control and coordination of brain and other body systems. Brain controls the body movements by sending electrical signals. These electrical signals are specifically called EEG ( Electroencephalography ) signals.
  
