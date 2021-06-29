@@ -1,0 +1,9 @@
+Our ITSP Project is based on tracking brain signals, manipulating them so that they could be used to simulate and control a robot. The basic motivation behind this project was to help the paralysed people so that they can perform their tasks with the help of the bot , thereby giving them a sense that they themselves are performing those actions. 
+So what we concluded from our brain study is that all the functions which are performed by humans are the results of control and coordination of brain and other body systems. Brain controls the body movements by sending electrical signals. These electrical signals are specifically called EEG ( Electroencephalography ) signals.
+ 
+Electroencephalography means writing of the electrical activity of the brain. Electroencephalography records the electrical activity of the brain using electrodes placed on the scalp. Measuring electrical activity from the brain is useful because it
+reflects how the many different neurons in the brain network communicate with each
+other via electrical impulses.
+
+
+If we look more closely at paralysis, patients are not able to perform body movements because the contact between the brain and that specific body part has been disrupted due to some injury, accident or birth defects. If we want to perform an action, the 1st process involved is imagination.. This imagination is also done by the patients but it is not converted into action. The imagination is done in the form of electric signals.They can be detected using a set of electrodes placed on the scalp. The plan is to take these “imagination” signals, interpret them and send them to a robot that can do those actions for you. The EEG signals from the brain are extracted, filtered and digitized so that they can be used by the Bot. The bot would use the signals to perform desired action, 
